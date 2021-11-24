@@ -14,7 +14,7 @@ import time
 set_workspace(path=None)
 
 # get an InstaPy session!
-session = InstaPy(username="lovely_lune2", password="Rhrntkd12#")
+session = InstaPy(username="dlwldms9710", password="rhrbtkd123")
 
 # with smart_run(session):
 #     # general settings
